@@ -2,7 +2,7 @@
 
 [![best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
 [![rank](https://make.fun/badge/best-game-01/Masrukhan25/best-game-01-entry-acct1-hd-v2/rank.svg)](https://make.fun/bounty/best-game-01)
-[![reward](https://make.fun/badge/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Masrukhan25/best-game-01-entry-acct1-hd-v2/reward.svg)](https://make.fun/bounty/best-game-01)
 
 An original HD neon space shooter, built for the [best-game-01 bounty](https://make.fun/bounty/best-game-01) on make.fun. All art and sound are generated in code — no image or audio files, no network requests.
 
